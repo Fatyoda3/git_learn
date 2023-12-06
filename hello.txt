@@ -1,1 +1,6 @@
 4576543
+
+printf("hello world");
+
+console.log("hello world ");
+
